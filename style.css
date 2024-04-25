@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+   
+    background-image: url("assets/bg.png");
+}
+h1 {
+    font-family: 'Poppins';
+    color: rgb(90, 37, 192);
+    font-size:3vw;
+    position: fixed;
+    left: 30%;
+    padding: 60px;
+    font-weight: 200px;   
+
+}
+
+img {
+    position: fixed;
+    top: 200px;
+    left: 400px;
+    
+}
+
+#play {
+    position: fixed;
+    top: 60%;
+    left: 60%;
+}
+
+#play-the-game {
+    position: fixed;
+    color: white;
+    top: 65%;
+    font-size: 2rem;
+    left: 68%;
+}
+
+
+
+
+
